@@ -1,5 +1,5 @@
 # PHP-CSIS-FinalProject
-CISS - PHP - Final project
+PHP - CISS - Final project
 
 This is the PHP final project from my group: 
 Jose Luiz Gomes, Luis Araujo, Pedro Rendon
